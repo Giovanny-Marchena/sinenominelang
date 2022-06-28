@@ -1,2 +1,2 @@
 # Sinenominelang
-A new programming language that i am working on "no name" "sn"
+A new programming language that i am working on "no name" "sin"
